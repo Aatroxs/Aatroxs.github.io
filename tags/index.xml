@@ -6,9 +6,37 @@
     <description>Recent content in Tags on Aatroxs&#39;Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
+    <lastBuildDate>Tue, 22 Oct 2019 11:29:17 +0800</lastBuildDate>
     
 	<atom:link href="https://Aatroxs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GNU/Linux</title>
+      <link>https://Aatroxs.github.io/tags/gnu/linux/</link>
+      <pubDate>Tue, 22 Oct 2019 11:29:17 +0800</pubDate>
+      
+      <guid>https://Aatroxs.github.io/tags/gnu/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuntu</title>
+      <link>https://Aatroxs.github.io/tags/ubuntu/</link>
+      <pubDate>Tue, 22 Oct 2019 11:29:17 +0800</pubDate>
+      
+      <guid>https://Aatroxs.github.io/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://Aatroxs.github.io/tags/windows/</link>
+      <pubDate>Tue, 22 Oct 2019 11:29:17 +0800</pubDate>
+      
+      <guid>https://Aatroxs.github.io/tags/windows/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
