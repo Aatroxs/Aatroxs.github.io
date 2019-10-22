@@ -5,8 +5,17 @@
     <description>Recent content in Aatroxs&#39;Blog on Aatroxs&#39;Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 22 Oct 2019 11:29:17 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2019 12:42:24 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Abouts</title>
+      <link>https://Aatroxs.github.io/about/</link>
+      <pubDate>Tue, 22 Oct 2019 12:42:24 +0800</pubDate>
+      
+      <guid>https://Aatroxs.github.io/about/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Posts</title>
